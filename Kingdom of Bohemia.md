@@ -164,6 +164,15 @@ and elected **Sněm**/**Parlament**. The first elected Premier of Bohemia is
 Johann Boskowitz, representing a pro-integration majority party **Junge
 Böhmen**. He will be re-elected in 1880.
 
+# 1893
+
+Bohemian linguist Johann Jakub Mlynář publishes _Über böhmische Sprachen_, the
+definitive work describing the current state of languages used in the Kingdom of
+Bohemia. In his book, Mlynář argues that the influence of Czech led to creation
+of a unique dialect of German, which he calls _Böhmisch_ (a term originally used
+in the Palatinate to describe German used by the Czech colonists during the 18th
+century).
+
 # 1910-1921
 
 ## The War in Europe
@@ -335,9 +344,9 @@ part of the UNESCO Heritage programme.
 
 # 1931
 
-The nationalist party **Naše vlast** (_Our homeland_), formed in the wake of the
-Warsaw Treaty, is elected to the **Rada** for the first time. Party leader Luboš
-Horníček, already infamous for his anti-Polish opinions, pushes for retaking
-Silesia by force, if necessary. His words, "Slezsko je Česko!" (_Silesia is
-Bohemia!_) become popularised especially in the north of Moravia, which has been
-the most economically impacted by the loss of Silesia.
+The nationalist party **Unsere vlast** (_Our homeland_), formed in the wake of
+the Warsaw Treaty, is elected to the **Rada** for the first time. Party leader
+Luboš Horníček, already infamous for his anti-Polish opinions, pushes for
+retaking Silesia by force, if necessary. His words, "Slezsko je Česko!"
+(_Silesia is Bohemia!_) become popularised especially in the north of Moravia,
+which has been the most economically impacted by the loss of Silesia.
